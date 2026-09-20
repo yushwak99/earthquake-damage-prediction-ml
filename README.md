@@ -72,6 +72,15 @@ The notebook contains the complete data analysis, preprocessing, machine learnin
 
 This project uses classification algorithms to predict earthquake-related building damage.
 
+## How to Run the Project
+
+1. Clone or download this repository.
+2. Make sure Python and Jupyter Notebook are installed.
+3. Install the required Python libraries using:
+
+```bash
+pip install -r requirements.txt
+
 The models are evaluated using appropriate classification evaluation metrics.
 
 ## Conclusion
