@@ -19,6 +19,20 @@ The main objectives of this project are:
 - Evaluate the performance of the models
 - Predict earthquake-related building damage
 
+## Dataset
+
+This project uses two training datasets:
+
+### train_values.csv
+
+This file contains the input features describing the buildings and their characteristics.
+
+### train_labels.csv
+
+This file contains the target variable representing the level of damage suffered by the buildings during the earthquake.
+
+The two datasets are linked using a common building identifier and are used together for training machine learning classification models.
+
 ## Project Workflow
 
 The project follows these major steps:
